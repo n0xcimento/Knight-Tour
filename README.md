@@ -8,6 +8,8 @@ The knight makes L-shaped moves (over two in one direction then over one in a pe
 
 * "Write a version of the Knight’s Tour program which, when encountering a tie between two or more squares, decides what square to choose by looking ahead to those squares reachable from the “tied” squares. Your program should move to the square for which the next move would arrive at a square with the lowest accessibility number."
 
-To run the program:
+* To run the program
+
 `g++ -o knight-tour knight-tour.cpp`
+
 `./knight-tour`
