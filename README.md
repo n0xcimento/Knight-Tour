@@ -10,6 +10,7 @@ The knight makes L-shaped moves (over two in one direction then over one in a pe
 
 * To run the program
 
-`g++ -o knight-tour knight-tour.cpp`
-
-`./knight-tour`
+```
+g++ -o knight-tour knight-tour.cpp
+./knight-tour
+```
